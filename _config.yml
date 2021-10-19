@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A Technical Bobbyists Blog
+title: A Technical Hobbyists Blog
 email: craig.stanton2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Posts related to AI and IoT. Maybe Blockchain, Web3. /* ToDo: insert more buzzwords when they trend */
